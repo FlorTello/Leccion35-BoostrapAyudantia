@@ -1,0 +1,22 @@
+.navbar-default img{
+  height: 65%;
+}
+.text-bold{
+  font-weight: 600;
+}
+.mg-top-0{
+  margin-top: 0;
+}
+nav h1{
+  font-size: 1.7rem;
+}
+.navbar-default .row{
+  display: flex;
+  align-items: center;
+}
+.fotos [class*='col-']{
+  padding: 2px;  
+}
+@media (max-width: 768) {
+
+}
